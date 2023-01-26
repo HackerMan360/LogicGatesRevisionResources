@@ -1,0 +1,16 @@
+{
+  "name": "videogame-project",
+  "version": "1.0.0",
+  "description": "a videogame wiki project for school using html",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@babel/core": "7.2.0",
+    "parcel-bundler": "^1.6.1"
+  },
+  "keywords": []
+}
